@@ -11,6 +11,7 @@ class App extends Component {
         <div className="row">
           <TodoInput />
           <TodoList />
+          <h1>hello</h1>
         </div>
       </div>
     );
